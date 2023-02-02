@@ -11,7 +11,7 @@ import static org.junit.jupiter.api.Assertions.*;
  *
  * @author MoaathAlrajab
  */
-public class CourseTest {
+public class CourseTest{
     
     Course crs;
     public CourseTest() {
